@@ -1,7 +1,6 @@
 import sys
 import sword
 import pygame
-import ctypes
 
 pygame.init()
 
